@@ -1,0 +1,18 @@
+www.malasngoding.com
+www.facebook.com/malasngodingpage
+
+
+APLIKASI PENJUALAN PADA KIOS DENGAN PHP DAN BOOTSTRAP
+APLIKASI INI TIDAK UNTUK DIJUAL.
+APLIKASI INI DI TUJUKAN UNTUK PEMBELAJARAN DASAR HTML, PHP DAN BOOTSTRAP.
+
+### PANDUAN CARA INSTALL
+copy project ke localhost ( xampp/htdocs/kios )
+buat database dengan nama malasngoding_kios
+import database
+konfigurasinya ada di admin/config.php
+
+akses : localhost/kios
+
+Username : malasngoding
+Password : malasngoding
